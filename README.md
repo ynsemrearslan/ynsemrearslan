@@ -2,7 +2,7 @@
 
 ### 🛠 Tech Stack
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
-![C#](https://img.shields.io/badge/C#-05122A?style=flat&logo=csharp&logoColor=29B6F6)&nbsp;
+![C#](https://img.shields.io/badge/CSharp-05122A?style=flat&logo=csharp&logoColor=29B6F6)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=Kotlin&logoColor=kotlin)&nbsp;
 ![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
